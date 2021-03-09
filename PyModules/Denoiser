@@ -1,0 +1,2 @@
+Denoiser discards junk and passes it over to the network stack. Junk removal needs care and thought
+Bluetooth and IR data needs denoising.
