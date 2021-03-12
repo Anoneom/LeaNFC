@@ -1,1 +1,3 @@
 The database saves all compressed input for potential future use and comparison.
+mqtt-data-logger.py
+sqlite node-red
